@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hamdi1020
 - 👀 I’m interested in learning code
-- 🌱 I’m currently learning htmn,phayton,c#
 - 💞️ I’m looking for some one to teche me 
 - 📫 How to reach me email seidhamdi454@gmail.com
 - cellphone 251974218751
